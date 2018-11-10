@@ -42,19 +42,16 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://192.168.56.90:8081/nexus/content/repositories/yoodlex/</url>
+		<url>http://192.168.56.90:8081/repository/scmgalaxy/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://192.168.56.90:8081/nexus/content/repositories/yoodlex/</url>
+		<url>http://http://192.168.56.90:8081/nexus/content/repositories/snapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
-
-
-
 
 
 
